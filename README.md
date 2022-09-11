@@ -35,7 +35,7 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h2>Connect with me ✨</h2>
+<h2>Where to find me ✨</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/alexarevalo9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
