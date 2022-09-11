@@ -4,7 +4,7 @@
  - 🔭 &nbsp; I’m currently working at [Tinkin](https://www.tinkin.one/) in the Development Team
  - 🌱 &nbsp; I’m currently learning more on advanced TypeScript, coding best practices and improving my level of English
  - 💬 &nbsp; Ask me about Javascript/Typescript or React/Next.js/Nest.js/Node.js
- - 📫 &nbsp;How to reach me: [@alexarevalo9](https://www.linkedin.com/in/alexarevalo9/) or <a rel="me" href="https://alexarevalo.dev">alexarevalo.dev</a>
+ - 📫 &nbsp;How to reach me: [@alexarevalo9](https://www.linkedin.com/in/alexarevalo9/) or <a rel="me" href="https://alexarevalo.dev">alexarevalo.xyz</a>
  - ⚡ &nbsp; Fun fact: I ❤️ 🐱s
  
 <h2>Things I code with 💻</h3>
