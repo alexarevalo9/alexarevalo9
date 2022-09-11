@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Welcome to my profile! 👋</h1>
-<p>I'm Alex, <b>Fullstack Developer</b> from <img align="center" src="https://cdn-icons-png.flaticon.com/512/330/330581.png" width="15"/> <b>Quito, Ecuador</b>.</p>
+<p>I'm Alex, <b>Full Stack Developer</b> from <img align="center" src="https://cdn-icons-png.flaticon.com/512/330/330581.png" width="15"/> <b>Quito, Ecuador</b>.</p>
 
  - 🔭 &nbsp; I’m currently working at [Tinkin](https://www.tinkin.one/) in the Development Team
  - 🌱 &nbsp; I’m currently learning more on advanced TypeScript, coding best practices and improving my level of English
