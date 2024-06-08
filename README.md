@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, Welcome to my profile! 👋</h1>
 <p>I'm Alex, <b>Full Stack Developer</b> from <img align="center" src="https://cdn-icons-png.flaticon.com/512/330/330581.png" width="15"/> <b>Quito, Ecuador</b>.</p>
 
- - 🔭 &nbsp; I’m currently working at [Tinkin](https://www.tinkin.one/) in the Development Team
- - 🌱 &nbsp; I’m currently learning more on advanced TypeScript, coding best practices and improving my level of English
- - 💬 &nbsp; Ask me about Javascript/Typescript or React/Next.js/Nest.js/Node.js
+ - 🔭 &nbsp; I’m currently working at [Workers Benefit Fund](https://workersbenefitfund.com/) in the Engineering Team as a Full Stack Developer
+ - 🌱 &nbsp; I’m currently learning more on advanced TypeScript, coding best practices and domain-driven design
+ - 💬 &nbsp; Ask me about Javascript/Typescript/Dart or React/Next.js/Nest.js/Node.js/Flutter
  - 📫 &nbsp; How to reach me: [@alexarevalo9](https://www.linkedin.com/in/alexarevalo9/) or <a rel="me" href="https://alexarevalo.xyz">alexarevalo.xyz</a>
  - ⚡ &nbsp; Fun fact: I ❤️ 🐱s
  
