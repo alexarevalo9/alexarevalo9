@@ -4,7 +4,7 @@
  - 🔭 &nbsp; I’m currently a Full Stack Developer building AI-assisted apps and automation tools with modern LLMs and agent frameworks.
  - 🌱 &nbsp; I’m currently learning more on advanced TypeScript, coding best practices and domain-driven design
  - 💬 &nbsp; Ask me about Javascript/Typescript/Dart or React/Next.js/Nest.js/Node.js/Flutter
- - 📫 &nbsp; How to reach me: [@alexarevalo9](https://www.linkedin.com/in/alexarevalo9/) or <a rel="me" href="https://alexarevalo.xyz">alexarevalo.xyz</a>
+ - 📫 &nbsp; How to reach me: [@alexarevalo9](https://www.linkedin.com/in/alexarevalo9/) or <a rel="me" href="https://alexarevalo.dev">alexarevalo.xyz</a>
  - ⚡ &nbsp; Fun fact: I ❤️ 🐱s
  
 <h2>Things I code with 💻</h3>
