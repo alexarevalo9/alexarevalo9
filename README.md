@@ -63,6 +63,3 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="medium"/>
   </a>
 </div>
-
-<h2>My GitHub Stats 📊</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=alexarevalo9&amp;show_icons=true" alt="GitHub Stats"></p>
